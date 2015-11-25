@@ -4,10 +4,10 @@ A shell deployment script for deploying metalsmith sites to GitHub pages.
 
 ## Why
 
-Metalsmith is awesome. Yorkshire Interactive has used it on 3 sites in just the
-past month. However, if you're wanting to deploy your static site you built
-with Metalsmith there's no clean way to do it as far as we could find. So, with
-a bit of hacking we came up with a deployment script.
+[Metalsmith](http://metalsmith.io) is awesome. Yorkshire Interactive has used
+it on 3 sites in just the past month. However, if you're wanting to deploy your
+static site you built with Metalsmith there's no clean way to do it as far as
+we could find. So, with a bit of hacking we came up with a deployment script.
 
 ## How
 
